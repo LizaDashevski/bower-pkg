@@ -1,0 +1,10 @@
+{
+  "name": "bower-pkg",
+  "homepage": "https://github.com/LizaDashevski/bower-pkg",
+  "authors": [
+    "lizad <lizad@jfrog.com>"
+  ],
+  "description": "A test pkg",
+  "main": "main.js",
+  "license": "MIT"
+}
